@@ -27,3 +27,11 @@ This capacity is selected to represent a small-scale hydrometallurgical operatio
 All mass balance calculations are normalized to:
 - 1 day of operation
 - Average ore feed composition
+
+## Ore Grade Assumption
+The copper ore feed is assumed to have an average copper grade of:
+
+- Copper grade: 1.0% Cu (by weight)
+
+This grade is representative of a low-to-medium grade copper ore
+commonly treated using beneficiation followed by hydrometallurgical processing.
