@@ -33,3 +33,20 @@ Required Cu in ore = 50 / 0.75 ≈ 66.7 t Cu/day
 The corresponding ore throughput is estimated as:
 
 Ore throughput = 66.7 / 0.01 ≈ 6,670 t ore/day
+
+## Beneficiation Product to Leaching
+
+Based on beneficiation performance:
+
+- Ore throughput: 6,670 t/day
+- Ore grade: 1.0% Cu
+- Beneficiation copper recovery: 85%
+- Concentrate grade: 25% Cu
+
+Copper reporting to concentrate:
+
+Cu in concentrate = 66.7 × 0.85 ≈ 56.7 t Cu/day
+
+Corresponding concentrate mass flow to leaching:
+
+Concentrate throughput = 56.7 / 0.25 ≈ 227 t/day
