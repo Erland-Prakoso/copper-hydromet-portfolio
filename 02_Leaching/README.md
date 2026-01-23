@@ -28,3 +28,10 @@ Based on preliminary mass balance:
 
 This significantly reduces leach reactor size and
 acid consumption compared to direct ore leaching.
+
+## Mineralogical Assumption
+For stoichiometric leaching calculations, copper in the concentrate
+is assumed to be primarily present as chalcopyrite (CuFeS₂).
+
+This assumption is commonly used for preliminary hydrometallurgical
+design of copper flotation concentrates.
