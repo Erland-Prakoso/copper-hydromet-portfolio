@@ -23,3 +23,6 @@ Corresponding acid mass:
 This value represents the minimum stoichiometric acid requirement.
 Additional acid will be required to account for gangue reactions,
 acid losses, and desired free acid concentration in the leach solution.
+In practice, actual acid consumption is substantially lower
+than the stoichiometric value due to the use of ferric recycle.
+Optimized acid consumption is addressed separately.
