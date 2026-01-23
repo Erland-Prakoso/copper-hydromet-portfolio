@@ -42,3 +42,22 @@ CuFeS₂ + 4 H₂SO₄ + O₂ → CuSO₄ + FeSO₄ + 4 H₂O + 2 S⁰
 
 This overall reaction is used for preliminary estimation
 of acid and oxidant requirements.
+
+## Ferric Regeneration Oxygen Demand
+
+Ferric ions reduced during chalcopyrite leaching must be regenerated
+to maintain oxidative leaching conditions.
+
+Based on the reaction:
+4Fe²⁺ + O₂ + 4H⁺ → 4Fe³⁺ + 2H₂O
+
+The oxygen demand is directly proportional to the amount of copper leached.
+
+For a copper dissolution rate of 241 kg/h:
+- Ferric reduced: 15.16 kmol Fe³⁺/h
+- Oxygen required: 3.79 kmol O₂/h
+- Equivalent to ~85 Nm³ O₂/h
+- Or ~404 Nm³ air/h at 21% O₂
+
+This oxygen requirement governs air blower sizing
+and gas–liquid mass transfer design.
