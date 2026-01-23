@@ -35,3 +35,11 @@ The copper ore feed is assumed to have an average copper grade of:
 
 This grade is representative of a low-to-medium grade copper ore
 commonly treated using beneficiation followed by hydrometallurgical processing.
+
+## Concentrate Grade Assumption
+The beneficiation circuit is assumed to produce a copper concentrate with:
+
+- Copper grade in concentrate: 25% Cu (by weight)
+
+This grade is typical for flotation concentrates intended for
+downstream hydrometallurgical treatment.
