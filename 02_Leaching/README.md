@@ -35,3 +35,10 @@ is assumed to be primarily present as chalcopyrite (CuFeS₂).
 
 This assumption is commonly used for preliminary hydrometallurgical
 design of copper flotation concentrates.
+
+## Overall Leaching Reaction (Simplified)
+
+CuFeS₂ + 4 H₂SO₄ + O₂ → CuSO₄ + FeSO₄ + 4 H₂O + 2 S⁰
+
+This overall reaction is used for preliminary estimation
+of acid and oxidant requirements.
