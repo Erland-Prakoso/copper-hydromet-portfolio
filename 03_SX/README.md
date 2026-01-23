@@ -24,3 +24,21 @@ Typical PLS composition to SX:
 - Temperature: 30–40 °C
 
 These parameters form the design basis for SX mixer–settler sizing.
+
+## SX Extraction Design Basis
+
+The solvent extraction circuit was designed to recover
+95% of copper from the PLS.
+
+PLS feed conditions:
+- Flowrate: 40 m³/h
+- Copper grade: 6 g/L
+
+Copper extracted to organic phase:
+- ~228 kg Cu/h
+
+Assuming a copper loading capacity of 5 g/L in the organic phase,
+the required organic flowrate is approximately 46 m³/h.
+
+This results in an organic-to-aqueous (O/A) ratio of ~1.1,
+which lies within typical industrial operating ranges.
