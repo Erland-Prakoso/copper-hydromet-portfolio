@@ -17,3 +17,14 @@ into an aqueous solution for downstream recovery.
 - Acid consumption
 - Oxidant requirement
 - Solid–liquid separation efficiency
+
+## Leach Feed Characteristics
+The leaching circuit is designed to treat a copper concentrate
+produced from beneficiation, rather than run-of-mine ore.
+
+Based on preliminary mass balance:
+- Concentrate throughput: ~227 t/day
+- Copper grade in concentrate: ~25% Cu
+
+This significantly reduces leach reactor size and
+acid consumption compared to direct ore leaching.
